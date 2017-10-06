@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Mona Lite';
+	src: url(olivya.github.io/fonts/mona-lite/mona-lite.woff);
+	src: url(olivya.github.io/fonts/mona-lite/mona-lite.woff2);
+	src: url(olivya.github.io/fonts/mona-lite/mona-lite.eot);
+	src: url(olivya.github.io/fonts/mona-lite/mona-lite.svg);
+	src: url(olivya.github.io/fonts/mona-lite/mona-lite.ttf);
+}
+
+div {
+	font-size: 48px;
+	color: #262626;
+}
+
+.mona-lite {
+	font-family: 'Mona Lite', 'Courier New', sans-serif;
+}
